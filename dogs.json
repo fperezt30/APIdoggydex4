@@ -1,0 +1,812 @@
+[
+  {
+    "dog_id": "1",
+    "dog": {
+      "name": "Jasper",
+      "age": "8",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Jasper.webp"
+    },
+    "owner": {
+      "name": "Mark Gill",
+      "phone": "438833339.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Wet food provided. 4 tablespoons",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Afternoon, Evening",
+      "duration": "20min"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "Thunderstorms ",
+      "owners_remark": "Leave supplied pink peamats on bathroom floor  in shower area. Show them. They'll use if busting and can't go out. ",
+      "medical_conditions": "No"
+    }
+  },
+  {
+    "dog_id": "2",
+    "dog": {
+      "name": "Oliver  (Ollie)",
+      "age": "3",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Olli.webp"
+    },
+    "owner": {
+      "name": "Mark Gill",
+      "phone": "438833329.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "4 tablesoons wet food and 3rd.cup kibble at 7pm. Exactely the same as asper ",
+      "allergies": "No",
+      "allergies_detail": "Nil"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "20"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Barks at larger dogs. Keep your didtance from bigger dogs. 😊",
+      "afraid_of": "Not really. ",
+      "owners_remark": "Gets very cold. Likes to cuddle up and keep warm.",
+      "medical_conditions": "Nil"
+    }
+  },
+  {
+    "dog_id": "3",
+    "dog": {
+      "name": "Mini",
+      "age": "13",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Mini.webp"
+    },
+    "owner": {
+      "name": "Innika Brown",
+      "phone": "402003343.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "4 tablespoons of wet food",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Evening",
+      "duration": "30mins"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "",
+      "owners_remark": "",
+      "medical_conditions": "Seizures, 2 x 92ml Kepra liquid doses daily. "
+    }
+  },
+  {
+    "dog_id": "4",
+    "dog": {
+      "name": "Ellie",
+      "age": "13",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Ellie.webp"
+    },
+    "owner": {
+      "name": "Innika Brown",
+      "phone": "402003343.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "4 tablespoons of wet food",
+      "allergies": "Yes",
+      "allergies_detail": "Escape artist, will try to get out. "
+    },
+    "walks": {
+      "frequency": "Evening",
+      "duration": "30"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Barks if other dogs are barking  ",
+      "afraid_of": "Loud noises, dyson hair dryers, loud bangs",
+      "owners_remark": "Please ensure yard is secure as she will try and find a way to get out to go explore. ",
+      "medical_conditions": "Nil"
+    }
+  },
+  {
+    "dog_id": "5",
+    "dog": {
+      "name": "Charli",
+      "age": "6",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Charlie.webp"
+    },
+    "owner": {
+      "name": "Linden Fuller",
+      "phone": "402533951.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "2 x soup rounded spoons plus some chewies that I'll bring",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "15 to 25 minutes (also until they toilet)"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs",
+      "afraid_of": "Thunder, fireworks",
+      "owners_remark": "usually fairly chilled, but will bark if wanting to say hello to other dogs",
+      "medical_conditions": "Nil"
+    }
+  },
+  {
+    "dog_id": "6",
+    "dog": {
+      "name": "Lola",
+      "age": "4",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Lolla.webp"
+    },
+    "owner": {
+      "name": "Linden Fuller",
+      "phone": "402533951.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "2 x rounded soup spoons (usually noy mornings but has chewies in mornings)",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "15 to 25. minutes (depending on toileting)"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs when worried",
+      "afraid_of": "Thunder, fireworks",
+      "owners_remark": "Likes to play fight with biscuits with Charli and chase toys (indoors)",
+      "medical_conditions": "Nil"
+    }
+  },
+  {
+    "dog_id": "7",
+    "dog": {
+      "name": "Bella",
+      "age": "15",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Bellaa.webp"
+    },
+    "owner": {
+      "name": "Luke Charleton",
+      "phone": "402748870.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "1 cup dry food AM. 1 serve food PM. ",
+      "allergies": "Yes",
+      "allergies_detail": "Nothing beef/kangaroo based."
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "10/15 min walk. Any time of day. "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Short yap to be let in or out the house. ",
+      "afraid_of": "",
+      "owners_remark": "Bella’s hearing is not as good as it used to be. She is quite good with hand gestures. ",
+      "medical_conditions": ""
+    }
+  },
+  {
+    "dog_id": "8",
+    "dog": {
+      "name": "Chester",
+      "age": "8",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Chester.webp"
+    },
+    "owner": {
+      "name": "Jonny (and Phil)",
+      "phone": "439744224.0",
+      "preferred_contact": "Whatsapp"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "2 scoops per meal (provided)",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "1 x 45-60min, 1x morning 5 mins, 1 afternoon/eve 5 mins"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "doorbell/buzzer",
+      "afraid_of": "big dogs",
+      "owners_remark": "Gentle dog but can be nervous at first around other dogs. likes to sit on your lap on the sofa. ",
+      "medical_conditions": "Heart murmur (monitored - no issues)"
+    }
+  },
+  {
+    "dog_id": "9",
+    "dog": {
+      "name": "Burrata ",
+      "age": "2",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Burrata.webp"
+    },
+    "owner": {
+      "name": "Eelee",
+      "phone": "458233996.0",
+      "preferred_contact": "Whatsapp"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Dog sitting - one meal usually around 5.30 or 6pm. Dog boarding two meals usually 9am and 5.30pm.",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "Usually 5 to 10 minutes unless she wants to walk more. She is more of an apartment dog, but does enjoy a longer walk if the weather is good."
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs",
+      "afraid_of": "Other dogs ",
+      "owners_remark": "She has pet insurance (fetch) so if she needs any medical emergency (hopefully not, but always good as an fyi), please do not hesitate. ",
+      "medical_conditions": "She is reactive to other dogs so we would recommend keeping her a safe distance from other dogs when walking "
+    }
+  },
+  {
+    "dog_id": "10",
+    "dog": {
+      "name": "Macie grey ",
+      "age": "5",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+    },
+    "owner": {
+      "name": "robert jones",
+      "phone": "409326900.0",
+      "preferred_contact": "Whatsapp"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "2 handful biscuits in morning & evening: I will supply ",
+      "allergies": "Yes",
+      "allergies_detail": "Real chicken meat or chicken chews "
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "1hr morning. Around the block at night "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Barks at other dogs to play with her. Not aggressive at all",
+      "afraid_of": "People to start with , but will settle for hugs ",
+      "owners_remark": "Love cuddles. If she is too energetic talk firm to her and she will listen and stop .",
+      "medical_conditions": ""
+    }
+  },
+  {
+    "dog_id": "11",
+    "dog": {
+      "name": "Diggle ",
+      "age": "3",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/diggle-scaled.webp"
+    },
+    "owner": {
+      "name": "Samira jaber kalil ",
+      "phone": "416466489.0",
+      "preferred_contact": "Whatsapp"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "2 cups and half red cups with milk ",
+      "allergies": "No",
+      "allergies_detail": "None "
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "15 minutes "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other people or dogs ",
+      "afraid_of": "Afraid of ambulances sounds ",
+      "owners_remark": "Just always keep the lead short when is people walking or running ",
+      "medical_conditions": "None "
+    }
+  },
+  {
+    "dog_id": "12",
+    "dog": {
+      "name": "Lexa",
+      "age": "4",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Lexa.webp"
+    },
+    "owner": {
+      "name": "Lara Varrica",
+      "phone": "406986921.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Morning - dry biscuits and chicken, dinner - a few more dry biscuits ",
+      "allergies": "Yes",
+      "allergies_detail": "She’s sensitive to moss and wet grass for bacteria. She just licks her paws a lot if they’re irritated and might need some saline (salt water wash)"
+    },
+    "walks": {
+      "frequency": "Morning",
+      "duration": "30 minutes (she prefers to sniff then to walk for social enjoyment, doesn’t like other dogs)"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs, intruders or loud noises ",
+      "afraid_of": "Other dogs, is very weary with people in the beginning particularly males ",
+      "owners_remark": "“Do you wanna tweat” gets her attention as she thinks she is getting food ",
+      "medical_conditions": "No (just anxious)"
+    }
+  },
+  {
+    "dog_id": "13",
+    "dog": {
+      "name": "Jax",
+      "age": "4",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Jax.webp"
+    },
+    "owner": {
+      "name": "Lara Varrica",
+      "phone": "406986921.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Morning - dru biscuits and chicken, dinner - dry biscuits ",
+      "allergies": "No",
+      "allergies_detail": "Gets a bit car sick"
+    },
+    "walks": {
+      "frequency": "Morning",
+      "duration": "30 minutes "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Noises outside and birds ",
+      "afraid_of": "Loud noises ",
+      "owners_remark": "Same as Lexa, “do you wanna tweat” thinks he is getting food so more responsive. At night he will beg and cry for his dinner ",
+      "medical_conditions": "Yes he has epilepsy and needs a tablet every morning and night or will have a fit. He has 1 full tablet for breakfast and a 1/2 tablet for night time. This is 1.5 tablets a day. I will show you in person, I hide it in his chicken "
+    }
+  },
+  {
+    "dog_id": "14",
+    "dog": {
+      "name": "Goldie",
+      "age": "10",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Goldie.webp"
+    },
+    "owner": {
+      "name": "Evan",
+      "phone": "411986938.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "~80-90g?",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "10-15 min (mainly for going to toilets)"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Only whines when trying to meet others dogs while on leash",
+      "afraid_of": "None that I am aware of",
+      "owners_remark": "She loves cuddling, belly rub, and holding",
+      "medical_conditions": "Daily Apoquel"
+    }
+  },
+  {
+    "dog_id": "15",
+    "dog": {
+      "name": "Ned",
+      "age": "14",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/NED.webp"
+    },
+    "owner": {
+      "name": "Cate Gazal",
+      "phone": "410828977.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "1/2 Cup morning after his walk and night ",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "20-30mins "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "No really a barker ",
+      "afraid_of": "None ",
+      "owners_remark": "",
+      "medical_conditions": "None "
+    }
+  },
+  {
+    "dog_id": "16",
+    "dog": {
+      "name": "Gus",
+      "age": "12",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Gus.webp"
+    },
+    "owner": {
+      "name": "Josie Grainer ",
+      "phone": "414313936.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Afternoon",
+      "amount": "He has a pack of Lyka in the morning with half a spoon of Mighty Munch probiotic sprinkled and then at some point during the day I pop a cup (provided in dry food) in his bowl and he will graze when he wants to. OK Gusso is his cue word. I try to take his Lyka out of the fridge about 15-30 mins before so it’s ambient temperature but you don’t have to 😀",
+      "allergies": "Yes",
+      "allergies_detail": "He doesn’t like loud noises so if you’re walking on a main road with trucks going past he will be very nervous. Even clanking of pots and pans and plates he will most likely scurry away. No known food allergies"
+    },
+    "walks": {
+      "frequency": "Morning",
+      "duration": "We typically go for about a 30 min walk in the morning and then I play frisbee or throw one of his toys to him throughout the day in our courtyard. As he is a senior I find he prefers sniff walks but can also keep up on fast walks. He’ll love you if you take pooches out morning and afternoon 😀"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "People at the door, being left alone for prolonged periods",
+      "afraid_of": "Ibises (yes the birds). He can smell them a mile away and if he sees white dots on the ground he will sniff it incase it’s Ibis poo. If off lead and he sees one he will chase it but then will come back. Loud noises in general ",
+      "owners_remark": "At home he will scratch at the door when he needs to go out to the toilet but if you leave your door open to your porch he will go to the toilet in your porch (if he’s allowed to). He tends to like to go to bed about 930pm and I generally say TOILET and take him out before bed. Sometimes he needs to go out in the middle of the night but I think that’s just with me as when he’s stayed with friends and family they say he doesn’t do that.\nHe LOVES LOVES his fluffy toys/bear, chew toys and frisbee and will most likely get it and walk around with them and drop them in front of you if he wants you to play with him and give you puppy dog eyes.\n\nTypically he’s not a huge fan of being touched. Even if he comes and sits next to you I’d avoid touching him for the first few days as he may get startled. You watch he’ll be the biggest snuggle bunny with you two 😀\n\nThank you so so much! \nI will only be in Queensland so please feel free to text or call me whenever.\nJosie",
+      "medical_conditions": "Nil"
+    }
+  },
+  {
+    "dog_id": "17",
+    "dog": {
+      "name": "Franki",
+      "age": "5",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Franki.webp"
+    },
+    "owner": {
+      "name": "Brittany Tan",
+      "phone": "434529212.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "I will provide in zip lock bags with instructions attached",
+      "allergies": "No",
+      "allergies_detail": "Just avoid giving her any food that isn’t hers"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon, Evening",
+      "duration": "Long enough for a wee/poo. Only will need a wee at lunch. "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "May bark at other dogs if they jump on her",
+      "afraid_of": "",
+      "owners_remark": "If you need to leave her home alone she prefers being alone in a small space e.g a bedroom or bathroom. Just leave her water and bed with her :)",
+      "medical_conditions": ""
+    }
+  },
+  {
+    "dog_id": "18",
+    "dog": {
+      "name": "Newton",
+      "age": "3",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Newton.webp"
+    },
+    "owner": {
+      "name": "Julien de Wit",
+      "phone": "429391062.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Half cup of dry food and a little wet food",
+      "allergies": "No",
+      "allergies_detail": "If its too hot since he is long haired"
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "20"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Other dogs while on leesh",
+      "afraid_of": "The vet",
+      "owners_remark": "Always sits before being fed and you need to clap or say \"go\" and he will then start. Also sometime he will skip meals.",
+      "medical_conditions": "Isn't allowed to / can't go up and down stairs. Must be lifted everytime."
+    }
+  },
+  {
+    "dog_id": "19",
+    "dog": {
+      "name": "Ketut and Coco",
+      "age": "2025-06-12T00:00:00",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Coco-y-Ketut.webp"
+    },
+    "owner": {
+      "name": "Cathy Sergi",
+      "phone": "41534524.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Afternoon",
+      "amount": "One bowl full",
+      "allergies": "Yes",
+      "allergies_detail": "Ketut can’t eat anything above 10% fat as gets pancreatitis (no fatty food or treats)"
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "30 once per day at anytime, the. Small little one in afternoon "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "No",
+      "afraid_of": "No",
+      "owners_remark": "",
+      "medical_conditions": "No"
+    }
+  },
+  {
+    "dog_id": "20",
+    "dog": {
+      "name": "Hugo",
+      "age": "1",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Hugo.webp"
+    },
+    "owner": {
+      "name": "Hugo",
+      "phone": "425701681.0",
+      "preferred_contact": "Whatsapp"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Large hand full",
+      "allergies": "Yes",
+      "allergies_detail": "We only feed him kibble"
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "30-45"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Nothing",
+      "afraid_of": "Cat rides",
+      "owners_remark": "Loves people loves company",
+      "medical_conditions": "N/a"
+    }
+  },
+  {
+    "dog_id": "21",
+    "dog": {
+      "name": "Shiloh",
+      "age": "2",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Shilo.webp"
+    },
+    "owner": {
+      "name": "Sarah Teng",
+      "phone": "410244998.0",
+      "preferred_contact": "Pet Sitting App"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "1/2 packet morning and evening",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "30min-60mins"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Sometimes other dogs barking",
+      "afraid_of": "Sometimes big dogs barking",
+      "owners_remark": "He does not like sharing food. ",
+      "medical_conditions": "Nil"
+    }
+  },
+  {
+    "dog_id": "22",
+    "dog": {
+      "name": "Creamy",
+      "age": "2",
+      "sex": "Female",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Creamy.webp"
+    },
+    "owner": {
+      "name": "Rene Ting",
+      "phone": "411883259.0",
+      "preferred_contact": "Whatsapp"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "40g",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Evening",
+      "duration": "15"
+    },
+    "behavior": {
+      "barks_in_reaction_to": "First encounter ",
+      "afraid_of": "",
+      "owners_remark": "",
+      "medical_conditions": ""
+    }
+  },
+  {
+    "dog_id": "23",
+    "dog": {
+      "name": "Shagal",
+      "age": "4",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Shagal.webp"
+    },
+    "owner": {
+      "name": "Phil Barone",
+      "phone": "439899498.0",
+      "preferred_contact": "SMS"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "1 cup",
+      "allergies": "No",
+      "allergies_detail": "But just generally wouldn’t feed him anything outside dry and wet dog and dog treats"
+    },
+    "walks": {
+      "frequency": "Morning, Evening",
+      "duration": "20 minutes to an hour "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Birds and occasionally outside noises. But not much",
+      "afraid_of": "Small children and ocassionally other dogs in regards to ball or toys",
+      "owners_remark": "Sensitive stomach, scared /reactive to children , possessive of his ball",
+      "medical_conditions": "Nil"
+    }
+  },
+  {
+    "dog_id": "24",
+    "dog": {
+      "name": "Harvey ",
+      "age": "1.5",
+      "sex": "Male",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Harvey.webp"
+    },
+    "owner": {
+      "name": "Jennifer Gwan",
+      "phone": "402139543.0",
+      "preferred_contact": "Whatsapp"
+    },
+    "feeding": {
+      "times": "Morning, Evening",
+      "amount": "Decent serve - he's a little piggie! ",
+      "allergies": "No",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "Morning, Afternoon",
+      "duration": "30-1hr "
+    },
+    "behavior": {
+      "barks_in_reaction_to": "Barks with excitement if sees another dog or hears one bark - otherwise not ",
+      "afraid_of": "Has a little separation anxiety when left alone so may whimper ",
+      "owners_remark": "He's a super snuggle bug so may be a space invader on couch or bed if allowed. He's just a big lover and adores people and other dogs. He has loads of running energy in dog parks and then crashes and sleeps for most of the day so I usually do off leash in the mornings at dog park. He can pull a tiny bit at start of walk but chills out and only minor as we are working on this. ",
+      "medical_conditions": "None "
+    }
+  },
+  {
+    "dog_id": "25",
+    "dog": {
+      "name": "Sunny",
+      "age": "",
+      "sex": "",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Sunny.webp"
+    },
+    "owner": {
+      "name": "Victoria",
+      "phone": "",
+      "preferred_contact": ""
+    },
+    "feeding": {
+      "times": "",
+      "amount": "",
+      "allergies": "",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "",
+      "duration": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "",
+      "owners_remark": "",
+      "medical_conditions": ""
+    }
+  },
+  {
+    "dog_id": "26",
+    "dog": {
+      "name": "Cino",
+      "age": "",
+      "sex": "",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Cinno.webp"
+    },
+    "owner": {
+      "name": "Tiffany",
+      "phone": "",
+      "preferred_contact": ""
+    },
+    "feeding": {
+      "times": "",
+      "amount": "",
+      "allergies": "",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "",
+      "duration": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "",
+      "owners_remark": "",
+      "medical_conditions": ""
+    }
+  },
+  {
+    "dog_id": "27",
+    "dog": {
+      "name": "Latte",
+      "age": "",
+      "sex": "",
+      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Latte.webp"
+    },
+    "owner": {
+      "name": "Tiffany",
+      "phone": "",
+      "preferred_contact": ""
+    },
+    "feeding": {
+      "times": "",
+      "amount": "",
+      "allergies": "",
+      "allergies_detail": ""
+    },
+    "walks": {
+      "frequency": "",
+      "duration": ""
+    },
+    "behavior": {
+      "barks_in_reaction_to": "",
+      "afraid_of": "",
+      "owners_remark": "",
+      "medical_conditions": ""
+    }
+  }
+]
