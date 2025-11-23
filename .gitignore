@@ -1,0 +1,5 @@
+.env
+dogapp-service.json
+__pycache__/
+*.pyc
+venv/
