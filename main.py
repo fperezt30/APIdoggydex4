@@ -3,6 +3,28 @@ from fastapi import FastAPI, HTTPException, Query
 
 app = FastAPI(title="Dog Profiles API")
 
+# ------------------------
+# CORS CONFIGURATION
+# ------------------------
+origins = [
+    "http://localhost:8000",
+    "http://127.0.0.1:8000",
+    "https://apidoggydex4.onrender.comm"
+    "http://localhost:5500",
+    "https://dogprofile3.onrender.com",   # backend
+    "https://your-pwa-domain-if-deployed", 
+    "*"  # optional: allow all
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
 # Load JSON once at startup
 def load_dogs_json():
     try:
