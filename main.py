@@ -1,5 +1,7 @@
 import json
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
+
 
 app = FastAPI(title="Dog Profiles API")
 
