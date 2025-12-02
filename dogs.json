@@ -20,7 +20,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "Wet food provided. 4 tablespoons"
+      "amount": "Wet food provided. 4 tablespoons"
     },
     "walks": {
       "frequency": "Afternoon, Evening",
@@ -64,7 +64,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "4 tablesoons wet food and 3rd.cup kibble at 7pm. Exactely the same as asper "
+      "amount": "4 tablesoons wet food and 3rd.cup kibble at 7pm. Exactely the same as asper "
     },
     "walks": {
       "frequency": "Morning, Afternoon",
@@ -108,7 +108,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "4 tablespoons of wet food"
+      "amount": "4 tablespoons of wet food"
     },
     "walks": {
       "frequency": "Evening",
@@ -152,7 +152,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "4 tablespoons of wet food"
+      "amount": "4 tablespoons of wet food"
     },
     "walks": {
       "frequency": "Evening",
@@ -196,7 +196,7 @@
     },
     "feeding": {
       "times": "Morning, Afternoon",
-      "amount|": "2 x soup rounded spoons plus some chewies that I'll bring"
+      "amount": "2 x soup rounded spoons plus some chewies that I'll bring"
     },
     "walks": {
       "frequency": "Morning, Afternoon",
@@ -240,7 +240,7 @@
     },
     "feeding": {
       "times": "Morning, Afternoon",
-      "amount|": "2 x rounded soup spoons (usually noy mornings but has chewies in mornings)"
+      "amount": "2 x rounded soup spoons (usually noy mornings but has chewies in mornings)"
     },
     "walks": {
       "frequency": "Morning, Afternoon",
@@ -284,7 +284,7 @@
     },
     "feeding": {
       "times": "Morning, Afternoon",
-      "amount|": "1 cup dry food AM. 1 serve food PM. "
+      "amount": "1 cup dry food AM. 1 serve food PM. "
     },
     "walks": {
       "frequency": "Morning, Afternoon, Evening",
@@ -328,7 +328,7 @@
     },
     "feeding": {
       "times": "Morning, Afternoon",
-      "amount|": "2 scoops per meal (provided)"
+      "amount": "2 scoops per meal (provided)"
     },
     "walks": {
       "frequency": "Morning, Afternoon, Evening",
@@ -372,7 +372,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "Dog sitting - one meal usually around 5.30 or 6pm. Dog boarding two meals usually 9am and 5.30pm."
+      "amount": "Dog sitting - one meal usually around 5.30 or 6pm. Dog boarding two meals usually 9am and 5.30pm."
     },
     "walks": {
       "frequency": "Morning, Afternoon, Evening",
@@ -416,7 +416,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "2 handful biscuits in morning & evening: I will supply "
+      "amount": "2 handful biscuits in morning & evening: I will supply "
     },
     "walks": {
       "frequency": "Morning, Evening",
@@ -460,7 +460,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "2 cups and half red cups with milk "
+      "amount": "2 cups and half red cups with milk "
     },
     "walks": {
       "frequency": "Morning, Afternoon, Evening",
@@ -504,7 +504,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "Morning - dry biscuits and chicken, dinner - a few more dry biscuits "
+      "amount": "Morning - dry biscuits and chicken, dinner - a few more dry biscuits "
     },
     "walks": {
       "frequency": "Morning",
@@ -548,7 +548,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "Morning - dru biscuits and chicken, dinner - dry biscuits "
+      "amount": "Morning - dru biscuits and chicken, dinner - dry biscuits "
     },
     "walks": {
       "frequency": "Morning",
@@ -592,7 +592,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "~80-90g?"
+      "amount": "~80-90g?"
     },
     "walks": {
       "frequency": "Morning, Afternoon",
@@ -636,7 +636,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "1/2 Cup morning after his walk and night "
+      "amount": "1/2 Cup morning after his walk and night "
     },
     "walks": {
       "frequency": "Morning, Evening",
@@ -680,7 +680,7 @@
     },
     "feeding": {
       "times": "Morning, Afternoon",
-      "amount|": "He has a pack of Lyka in the morning with half a spoon of Mighty Munch probiotic sprinkled and then at some point during the day I pop a cup (provided in dry food) in his bowl and he will graze when he wants to. OK Gusso is his cue word. I try to take his Lyka out of the fridge about 15-30 mins before so it’s ambient temperature but you don’t have to 😀"
+      "amount": "He has a pack of Lyka in the morning with half a spoon of Mighty Munch probiotic sprinkled and then at some point during the day I pop a cup (provided in dry food) in his bowl and he will graze when he wants to. OK Gusso is his cue word. I try to take his Lyka out of the fridge about 15-30 mins before so it’s ambient temperature but you don’t have to 😀"
     },
     "walks": {
       "frequency": "Morning",
@@ -724,7 +724,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "I will provide in zip lock bags with instructions attached"
+      "amount": "I will provide in zip lock bags with instructions attached"
     },
     "walks": {
       "frequency": "Morning, Afternoon, Evening",
@@ -768,7 +768,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "Half cup of dry food and a little wet food"
+      "amount": "Half cup of dry food and a little wet food"
     },
     "walks": {
       "frequency": "Morning, Evening",
@@ -812,7 +812,7 @@
     },
     "feeding": {
       "times": "Afternoon",
-      "amount|": "One bowl full"
+      "amount": "One bowl full"
     },
     "walks": {
       "frequency": "Morning, Afternoon",
@@ -856,7 +856,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "Large hand full"
+      "amount": "Large hand full"
     },
     "walks": {
       "frequency": "Morning, Evening",
@@ -900,7 +900,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "1/2 packet morning and evening"
+      "amount": "1/2 packet morning and evening"
     },
     "walks": {
       "frequency": "Morning, Afternoon",
@@ -944,7 +944,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "40g"
+      "amount": "40g"
     },
     "walks": {
       "frequency": "Evening",
@@ -988,7 +988,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "1 cup"
+      "amount": "1 cup"
     },
     "walks": {
       "frequency": "Morning, Evening",
@@ -1032,7 +1032,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "Decent serve - he's a little piggie! "
+      "amount": "Decent serve - he's a little piggie! "
     },
     "walks": {
       "frequency": "Morning, Afternoon",
@@ -1076,7 +1076,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "One scoop of dry food plus one wet sachet mixed in "
+      "amount": "One scoop of dry food plus one wet sachet mixed in "
     },
     "walks": {
       "frequency": "Morning, Evening",
@@ -1120,7 +1120,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "1 cup"
+      "amount": "1 cup"
     },
     "walks": {
       "frequency": "Afternoon",
@@ -1164,7 +1164,7 @@
     },
     "feeding": {
       "times": "Morning, Evening",
-      "amount|": "30 grams "
+      "amount": "30 grams "
     },
     "walks": {
       "frequency": "Morning, Afternoon",
@@ -1208,7 +1208,7 @@
     },
     "feeding": {
       "times": "",
-      "amount|": ""
+      "amount": ""
     },
     "walks": {
       "frequency": "",
@@ -1252,7 +1252,7 @@
     },
     "feeding": {
       "times": "",
-      "amount|": ""
+      "amount": ""
     },
     "walks": {
       "frequency": "",
