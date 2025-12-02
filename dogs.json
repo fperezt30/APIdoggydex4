@@ -14,9 +14,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$55 x 2 dogs",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -27,21 +27,20 @@
       "duration": "20min"
     },
     "medical": {
-      "medical condition": "No",
+      "medical_condition": "No",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Jo Hofmann",
-      "Phone Number": "+61411741887",
-      "Vet Name": "Greencross Alexandria.",
-      "Vet Contact": "02 32798651"
+      "emergency_contact": "Jo Hofmann",
+      "phone_number": "+61411741887",
+      "vet_name": "Greencross Alexandria.",
+      "vet_contact": "02 32798651"
     },
     "behavior": {
       "barks_in_reaction_to": "",
       "afraid_of": "Thunderstorms ",
-      "owners_remark": "Leave supplied pink peamats on bathroom floor  in shower area. Show them. They'll use if busting and can't go out. ",
-      "medical_conditions": "No"
+      "owners_remark": "Leave supplied pink peamats on bathroom floor  in shower area. Show them. They'll use if busting and can't go out. "
     }
   },
   {
@@ -59,9 +58,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$55 x 2 dogs",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -72,21 +71,20 @@
       "duration": "20"
     },
     "medical": {
-      "medical condition": "Nil",
+      "medical_condition": "Nil",
       "allergies": "No",
       "allergies_detail": "Nil"
     },
     "emergency": {
-      "Emergency Contact": "Jo Hofmann",
-      "Phone Number": "+61411741887",
-      "Vet Name": "Greencross Alexandria",
-      "Vet Contact": "93897534"
+      "emergency_contact": "Jo Hofmann",
+      "phone_number": "+61411741887",
+      "vet_name": "Greencross Alexandria",
+      "vet_contact": "93897534"
     },
     "behavior": {
       "barks_in_reaction_to": "Barks at larger dogs. Keep your didtance from bigger dogs. 😊",
       "afraid_of": "Not really. ",
-      "owners_remark": "Gets very cold. Likes to cuddle up and keep warm.",
-      "medical_conditions": "Nil"
+      "owners_remark": "Gets very cold. Likes to cuddle up and keep warm."
     }
   },
   {
@@ -104,9 +102,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$55 x 2 dogs",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -117,21 +115,20 @@
       "duration": "30mins"
     },
     "medical": {
-      "medical condition": "Seizures, 2 x 92ml Kepra liquid doses daily. ",
+      "medical_condition": "Seizures, 2 x 92ml Kepra liquid doses daily. ",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Max",
-      "Phone Number": "0449 553 286",
-      "Vet Name": "Animal Tracks Vet Clinic ",
-      "Vet Contact": "02 9764 6066"
+      "emergency_contact": "Max",
+      "phone_number": "0449 553 286",
+      "vet_name": "Animal Tracks Vet Clinic ",
+      "vet_contact": "02 9764 6066"
     },
     "behavior": {
       "barks_in_reaction_to": "",
       "afraid_of": "",
-      "owners_remark": "",
-      "medical_conditions": "Seizures, 2 x 92ml Kepra liquid doses daily. "
+      "owners_remark": ""
     }
   },
   {
@@ -149,9 +146,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$55 x 2 dogs",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -162,21 +159,20 @@
       "duration": "30"
     },
     "medical": {
-      "medical condition": "Nil",
+      "medical_condition": "Nil",
       "allergies": "Yes",
       "allergies_detail": "Escape artist, will try to get out. "
     },
     "emergency": {
-      "Emergency Contact": "Max",
-      "Phone Number": "0449 553 286",
-      "Vet Name": "Animal Tracks Vet",
-      "Vet Contact": "02 9764 6066"
+      "emergency_contact": "Max",
+      "phone_number": "0449 553 286",
+      "vet_name": "Animal Tracks Vet",
+      "vet_contact": "02 9764 6066"
     },
     "behavior": {
       "barks_in_reaction_to": "Barks if other dogs are barking  ",
       "afraid_of": "Loud noises, dyson hair dryers, loud bangs",
-      "owners_remark": "Please ensure yard is secure as she will try and find a way to get out to go explore. ",
-      "medical_conditions": "Nil"
+      "owners_remark": "Please ensure yard is secure as she will try and find a way to get out to go explore. "
     }
   },
   {
@@ -194,9 +190,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$55 x 2 dogs",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Afternoon",
@@ -207,21 +203,20 @@
       "duration": "15 to 25 minutes (also until they toilet)"
     },
     "medical": {
-      "medical condition": "Nil",
+      "medical_condition": "Nil",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Ben Selby",
-      "Phone Number": "0421986282",
-      "Vet Name": "Julian Smith - Jannali Veterinary ",
-      "Vet Contact": ""
+      "emergency_contact": "Ben Selby",
+      "phone_number": "0421986282",
+      "vet_name": "Julian Smith - Jannali Veterinary ",
+      "vet_contact": ""
     },
     "behavior": {
       "barks_in_reaction_to": "Other dogs",
       "afraid_of": "Thunder, fireworks",
-      "owners_remark": "usually fairly chilled, but will bark if wanting to say hello to other dogs",
-      "medical_conditions": "Nil"
+      "owners_remark": "usually fairly chilled, but will bark if wanting to say hello to other dogs"
     }
   },
   {
@@ -239,9 +234,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$55 x 2 dogs",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Afternoon",
@@ -252,21 +247,20 @@
       "duration": "15 to 25. minutes (depending on toileting)"
     },
     "medical": {
-      "medical condition": "Nil",
+      "medical_condition": "Nil",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Ben Selby (son)",
-      "Phone Number": "0421986282",
-      "Vet Name": "Julian Smith Jannali Veterinary",
-      "Vet Contact": ""
+      "emergency_contact": "Ben Selby (son)",
+      "phone_number": "0421986282",
+      "vet_name": "Julian Smith Jannali Veterinary",
+      "vet_contact": ""
     },
     "behavior": {
       "barks_in_reaction_to": "Other dogs when worried",
       "afraid_of": "Thunder, fireworks",
-      "owners_remark": "Likes to play fight with biscuits with Charli and chase toys (indoors)",
-      "medical_conditions": "Nil"
+      "owners_remark": "Likes to play fight with biscuits with Charli and chase toys (indoors)"
     }
   },
   {
@@ -284,9 +278,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$35 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Afternoon",
@@ -297,21 +291,20 @@
       "duration": "10/15 min walk. Any time of day. "
     },
     "medical": {
-      "medical condition": "",
+      "medical_condition": "",
       "allergies": "Yes",
       "allergies_detail": "Nothing beef/kangaroo based."
     },
     "emergency": {
-      "Emergency Contact": "",
-      "Phone Number": "",
-      "Vet Name": "",
-      "Vet Contact": ""
+      "emergency_contact": "",
+      "phone_number": "",
+      "vet_name": "",
+      "vet_contact": ""
     },
     "behavior": {
       "barks_in_reaction_to": "Short yap to be let in or out the house. ",
       "afraid_of": "",
-      "owners_remark": "Bella’s hearing is not as good as it used to be. She is quite good with hand gestures. ",
-      "medical_conditions": ""
+      "owners_remark": "Bella’s hearing is not as good as it used to be. She is quite good with hand gestures. "
     }
   },
   {
@@ -329,9 +322,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing data": {
-      "last price boarding": "$45 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Afternoon",
@@ -342,21 +335,20 @@
       "duration": "1 x 45-60min, 1x morning 5 mins, 1 afternoon/eve 5 mins"
     },
     "medical": {
-      "medical condition": "Heart murmur (monitored - no issues)",
+      "medical_condition": "Heart murmur (monitored - no issues)",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Nicky Wye ",
-      "Phone Number": "+61497067981",
-      "Vet Name": "Sydney animal hospital, Erskinville",
-      "Vet Contact": "0295194111"
+      "emergency_contact": "Nicky Wye ",
+      "phone_number": "+61497067981",
+      "vet_name": "Sydney animal hospital, Erskinville",
+      "vet_contact": "0295194111"
     },
     "behavior": {
       "barks_in_reaction_to": "doorbell/buzzer",
       "afraid_of": "big dogs",
-      "owners_remark": "Gentle dog but can be nervous at first around other dogs. likes to sit on your lap on the sofa. ",
-      "medical_conditions": "Heart murmur (monitored - no issues)"
+      "owners_remark": "Gentle dog but can be nervous at first around other dogs. likes to sit on your lap on the sofa. "
     }
   },
   {
@@ -374,9 +366,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing data": {
-      "last price boarding": "$35 x 1 dog",
-      "last price day care": "$25 x 1 dog",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "$25 x 1 dog",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -387,21 +379,20 @@
       "duration": "Usually 5 to 10 minutes unless she wants to walk more. She is more of an apartment dog, but does enjoy a longer walk if the weather is good."
     },
     "medical": {
-      "medical condition": "She is reactive to other dogs so we would recommend keeping her a safe distance from other dogs when walking ",
+      "medical_condition": "She is reactive to other dogs so we would recommend keeping her a safe distance from other dogs when walking ",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Vincenzo",
-      "Phone Number": "0458904578",
-      "Vet Name": "Sydney Dogs and Cats Home",
-      "Vet Contact": "0427909269"
+      "emergency_contact": "Vincenzo",
+      "phone_number": "0458904578",
+      "vet_name": "Sydney Dogs and Cats Home",
+      "vet_contact": "0427909269"
     },
     "behavior": {
       "barks_in_reaction_to": "Other dogs",
       "afraid_of": "Other dogs ",
-      "owners_remark": "She has pet insurance (fetch) so if she needs any medical emergency (hopefully not, but always good as an fyi), please do not hesitate. ",
-      "medical_conditions": "She is reactive to other dogs so we would recommend keeping her a safe distance from other dogs when walking "
+      "owners_remark": "She has pet insurance (fetch) so if she needs any medical emergency (hopefully not, but always good as an fyi), please do not hesitate. "
     }
   },
   {
@@ -419,9 +410,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing data": {
-      "last price boarding": "$45 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -432,21 +423,20 @@
       "duration": "1hr morning. Around the block at night "
     },
     "medical": {
-      "medical condition": "",
+      "medical_condition": "",
       "allergies": "Yes",
       "allergies_detail": "Real chicken meat or chicken chews "
     },
     "emergency": {
-      "Emergency Contact": "Rod hales",
-      "Phone Number": "0411 430 250",
-      "Vet Name": "Kingsford vet",
-      "Vet Contact": "9662 6703"
+      "emergency_contact": "Rod hales",
+      "phone_number": "0411 430 250",
+      "vet_name": "Kingsford vet",
+      "vet_contact": "9662 6703"
     },
     "behavior": {
       "barks_in_reaction_to": "Barks at other dogs to play with her. Not aggressive at all",
       "afraid_of": "People to start with , but will settle for hugs ",
-      "owners_remark": "Love cuddles. If she is too energetic talk firm to her and she will listen and stop .",
-      "medical_conditions": ""
+      "owners_remark": "Love cuddles. If she is too energetic talk firm to her and she will listen and stop ."
     }
   },
   {
@@ -464,9 +454,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing data": {
-      "last price boarding": "$35 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -477,21 +467,20 @@
       "duration": "15 minutes "
     },
     "medical": {
-      "medical condition": "None ",
+      "medical_condition": "None ",
       "allergies": "No",
       "allergies_detail": "None "
     },
     "emergency": {
-      "Emergency Contact": "Riad jaber kalil",
-      "Phone Number": "+61 420 201 676",
-      "Vet Name": "30 Princes Hwy, KOGARAH 2217 ",
-      "Vet Contact": "Princess hwy veterinary hospital "
+      "emergency_contact": "Riad jaber kalil",
+      "phone_number": "+61 420 201 676",
+      "vet_name": "30 Princes Hwy, KOGARAH 2217 ",
+      "vet_contact": "Princess hwy veterinary hospital "
     },
     "behavior": {
       "barks_in_reaction_to": "Other people or dogs ",
       "afraid_of": "Afraid of ambulances sounds ",
-      "owners_remark": "Just always keep the lead short when is people walking or running ",
-      "medical_conditions": "None "
+      "owners_remark": "Just always keep the lead short when is people walking or running "
     }
   },
   {
@@ -509,9 +498,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$70 x 2 dogs",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$70 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -522,21 +511,20 @@
       "duration": "30 minutes (she prefers to sniff then to walk for social enjoyment, doesn’t like other dogs)"
     },
     "medical": {
-      "medical condition": "No (just anxious)",
+      "medical_condition": "No (just anxious)",
       "allergies": "Yes",
       "allergies_detail": "She’s sensitive to moss and wet grass for bacteria. She just licks her paws a lot if they’re irritated and might need some saline (salt water wash)"
     },
     "emergency": {
-      "Emergency Contact": "Monique Varrica",
-      "Phone Number": "0450696726",
-      "Vet Name": "Southside Vet Cronulla ",
-      "Vet Contact": "+61 2 9523 5500"
+      "emergency_contact": "Monique Varrica",
+      "phone_number": "0450696726",
+      "vet_name": "Southside Vet Cronulla ",
+      "vet_contact": "+61 2 9523 5500"
     },
     "behavior": {
       "barks_in_reaction_to": "Other dogs, intruders or loud noises ",
       "afraid_of": "Other dogs, is very weary with people in the beginning particularly males ",
-      "owners_remark": "“Do you wanna tweat” gets her attention as she thinks she is getting food ",
-      "medical_conditions": "No (just anxious)"
+      "owners_remark": "“Do you wanna tweat” gets her attention as she thinks she is getting food "
     }
   },
   {
@@ -554,9 +542,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$70 x 2 dogs",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$70 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -567,21 +555,20 @@
       "duration": "30 minutes "
     },
     "medical": {
-      "medical condition": "Yes he has epilepsy and needs a tablet every morning and night or will have a fit. He has 1 full tablet for breakfast and a 1/2 tablet for night time. This is 1.5 tablets a day. I will show you in person, I hide it in his chicken ",
+      "medical_condition": "Yes he has epilepsy and needs a tablet every morning and night or will have a fit. He has 1 full tablet for breakfast and a 1/2 tablet for night time. This is 1.5 tablets a day. I will show you in person, I hide it in his chicken ",
       "allergies": "No",
       "allergies_detail": "Gets a bit car sick"
     },
     "emergency": {
-      "Emergency Contact": "Monique Varrica ",
-      "Phone Number": "0450696726",
-      "Vet Name": "Southside vet cronulla ",
-      "Vet Contact": "+61 2 9523 5500"
+      "emergency_contact": "Monique Varrica ",
+      "phone_number": "0450696726",
+      "vet_name": "Southside vet cronulla ",
+      "vet_contact": "+61 2 9523 5500"
     },
     "behavior": {
       "barks_in_reaction_to": "Noises outside and birds ",
       "afraid_of": "Loud noises ",
-      "owners_remark": "Same as Lexa, “do you wanna tweat” thinks he is getting food so more responsive. At night he will beg and cry for his dinner ",
-      "medical_conditions": "Yes he has epilepsy and needs a tablet every morning and night or will have a fit. He has 1 full tablet for breakfast and a 1/2 tablet for night time. This is 1.5 tablets a day. I will show you in person, I hide it in his chicken "
+      "owners_remark": "Same as Lexa, “do you wanna tweat” thinks he is getting food so more responsive. At night he will beg and cry for his dinner "
     }
   },
   {
@@ -599,9 +586,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$55 x 2 dogs",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$55 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -612,21 +599,20 @@
       "duration": "10-15 min (mainly for going to toilets)"
     },
     "medical": {
-      "medical condition": "Daily Apoquel",
+      "medical_condition": "Daily Apoquel",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Stella",
-      "Phone Number": "0430853888",
-      "Vet Name": "",
-      "Vet Contact": ""
+      "emergency_contact": "Stella",
+      "phone_number": "0430853888",
+      "vet_name": "",
+      "vet_contact": ""
     },
     "behavior": {
       "barks_in_reaction_to": "Only whines when trying to meet others dogs while on leash",
       "afraid_of": "None that I am aware of",
-      "owners_remark": "She loves cuddling, belly rub, and holding",
-      "medical_conditions": "Daily Apoquel"
+      "owners_remark": "She loves cuddling, belly rub, and holding"
     }
   },
   {
@@ -644,9 +630,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$35 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -657,21 +643,20 @@
       "duration": "20-30mins "
     },
     "medical": {
-      "medical condition": "None ",
+      "medical_condition": "None ",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Tushar Raniga",
-      "Phone Number": "+61 449 904 423",
-      "Vet Name": "Marrickville Vet Hospital AMS",
-      "Vet Contact": "02 9558 2500"
+      "emergency_contact": "Tushar Raniga",
+      "phone_number": "+61 449 904 423",
+      "vet_name": "Marrickville Vet Hospital AMS",
+      "vet_contact": "02 9558 2500"
     },
     "behavior": {
       "barks_in_reaction_to": "No really a barker ",
       "afraid_of": "None ",
-      "owners_remark": "",
-      "medical_conditions": "None "
+      "owners_remark": ""
     }
   },
   {
@@ -689,9 +674,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$35 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$35 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Afternoon",
@@ -702,21 +687,20 @@
       "duration": "We typically go for about a 30 min walk in the morning and then I play frisbee or throw one of his toys to him throughout the day in our courtyard. As he is a senior I find he prefers sniff walks but can also keep up on fast walks. He’ll love you if you take pooches out morning and afternoon 😀"
     },
     "medical": {
-      "medical condition": "Nil",
+      "medical_condition": "Nil",
       "allergies": "Yes",
       "allergies_detail": "He doesn’t like loud noises so if you’re walking on a main road with trucks going past he will be very nervous. Even clanking of pots and pans and plates he will most likely scurry away. No known food allergies"
     },
     "emergency": {
-      "Emergency Contact": "Barbara Parchert",
-      "Phone Number": "0418868316",
-      "Vet Name": "Vet HQ Double Bay. It’s not an emergency vet",
-      "Vet Contact": "9326 1255"
+      "emergency_contact": "Barbara Parchert",
+      "phone_number": "0418868316",
+      "vet_name": "Vet HQ Double Bay. It’s not an emergency vet",
+      "vet_contact": "9326 1255"
     },
     "behavior": {
       "barks_in_reaction_to": "People at the door, being left alone for prolonged periods",
       "afraid_of": "Ibises (yes the birds). He can smell them a mile away and if he sees white dots on the ground he will sniff it incase it’s Ibis poo. If off lead and he sees one he will chase it but then will come back. Loud noises in general ",
-      "owners_remark": "At home he will scratch at the door when he needs to go out to the toilet but if you leave your door open to your porch he will go to the toilet in your porch (if he’s allowed to). He tends to like to go to bed about 930pm and I generally say TOILET and take him out before bed. Sometimes he needs to go out in the middle of the night but I think that’s just with me as when he’s stayed with friends and family they say he doesn’t do that.\nHe LOVES LOVES his fluffy toys/bear, chew toys and frisbee and will most likely get it and walk around with them and drop them in front of you if he wants you to play with him and give you puppy dog eyes.\n\nTypically he’s not a huge fan of being touched. Even if he comes and sits next to you I’d avoid touching him for the first few days as he may get startled. You watch he’ll be the biggest snuggle bunny with you two 😀\n\nThank you so so much! \nI will only be in Queensland so please feel free to text or call me whenever.\nJosie",
-      "medical_conditions": "Nil"
+      "owners_remark": "At home he will scratch at the door when he needs to go out to the toilet but if you leave your door open to your porch he will go to the toilet in your porch (if he’s allowed to). He tends to like to go to bed about 930pm and I generally say TOILET and take him out before bed. Sometimes he needs to go out in the middle of the night but I think that’s just with me as when he’s stayed with friends and family they say he doesn’t do that.\nHe LOVES LOVES his fluffy toys/bear, chew toys and frisbee and will most likely get it and walk around with them and drop them in front of you if he wants you to play with him and give you puppy dog eyes.\n\nTypically he’s not a huge fan of being touched. Even if he comes and sits next to you I’d avoid touching him for the first few days as he may get startled. You watch he’ll be the biggest snuggle bunny with you two 😀\n\nThank you so so much! \nI will only be in Queensland so please feel free to text or call me whenever.\nJosie"
     }
   },
   {
@@ -734,9 +718,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$55 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$55 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -747,21 +731,20 @@
       "duration": "Long enough for a wee/poo. Only will need a wee at lunch. "
     },
     "medical": {
-      "medical condition": "",
+      "medical_condition": "",
       "allergies": "No",
       "allergies_detail": "Just avoid giving her any food that isn’t hers"
     },
     "emergency": {
-      "Emergency Contact": "Keeta Tuner",
-      "Phone Number": "+61 420 882 462",
-      "Vet Name": "Maroubra Veterinary  Hospital",
-      "Vet Contact": "+61 2 9344 8722"
+      "emergency_contact": "Keeta Tuner",
+      "phone_number": "+61 420 882 462",
+      "vet_name": "Maroubra Veterinary  Hospital",
+      "vet_contact": "+61 2 9344 8722"
     },
     "behavior": {
       "barks_in_reaction_to": "May bark at other dogs if they jump on her",
       "afraid_of": "",
-      "owners_remark": "If you need to leave her home alone she prefers being alone in a small space e.g a bedroom or bathroom. Just leave her water and bed with her :)",
-      "medical_conditions": ""
+      "owners_remark": "If you need to leave her home alone she prefers being alone in a small space e.g a bedroom or bathroom. Just leave her water and bed with her :)"
     }
   },
   {
@@ -779,9 +762,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$45 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -792,21 +775,20 @@
       "duration": "20"
     },
     "medical": {
-      "medical condition": "Isn't allowed to / can't go up and down stairs. Must be lifted everytime.",
+      "medical_condition": "Isn't allowed to / can't go up and down stairs. Must be lifted everytime.",
       "allergies": "No",
       "allergies_detail": "If its too hot since he is long haired"
     },
     "emergency": {
-      "Emergency Contact": "Lachlan White",
-      "Phone Number": "0401263421",
-      "Vet Name": "Green Cross",
-      "Vet Contact": "depends on which clinic"
+      "emergency_contact": "Lachlan White",
+      "phone_number": "0401263421",
+      "vet_name": "Green Cross",
+      "vet_contact": "depends on which clinic"
     },
     "behavior": {
       "barks_in_reaction_to": "Other dogs while on leesh",
       "afraid_of": "The vet",
-      "owners_remark": "Always sits before being fed and you need to clap or say \"go\" and he will then start. Also sometime he will skip meals.",
-      "medical_conditions": "Isn't allowed to / can't go up and down stairs. Must be lifted everytime."
+      "owners_remark": "Always sits before being fed and you need to clap or say \"go\" and he will then start. Also sometime he will skip meals."
     }
   },
   {
@@ -824,9 +806,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$60 x 2 dogs",
-      "last price day care": "$40 x 2 dogs",
-      "Outst. Balance": "In favor $60"
+      "last_price_boarding": "$60 x 2 dogs",
+      "last_price_day_care": "$40 x 2 dogs",
+      "outstanding_balance": "In favor $60"
     },
     "feeding": {
       "times": "Afternoon",
@@ -837,21 +819,20 @@
       "duration": "30 once per day at anytime, the. Small little one in afternoon "
     },
     "medical": {
-      "medical condition": "No",
+      "medical_condition": "No",
       "allergies": "Yes",
       "allergies_detail": "Ketut can’t eat anything above 10% fat as gets pancreatitis (no fatty food or treats)"
     },
     "emergency": {
-      "Emergency Contact": "Oz Korkmazer",
-      "Phone Number": "+61 451 509 098",
-      "Vet Name": "Sydney animal hospital ",
-      "Vet Contact": "0295161466"
+      "emergency_contact": "Oz Korkmazer",
+      "phone_number": "+61 451 509 098",
+      "vet_name": "Sydney animal hospital ",
+      "vet_contact": "0295161466"
     },
     "behavior": {
       "barks_in_reaction_to": "No",
       "afraid_of": "No",
-      "owners_remark": "",
-      "medical_conditions": "No"
+      "owners_remark": ""
     }
   },
   {
@@ -869,9 +850,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing data": {
-      "last price boarding": "$45 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -882,21 +863,20 @@
       "duration": "30-45"
     },
     "medical": {
-      "medical condition": "N/a",
+      "medical_condition": "N/a",
       "allergies": "Yes",
       "allergies_detail": "We only feed him kibble"
     },
     "emergency": {
-      "Emergency Contact": "Nathan borger",
-      "Phone Number": "0419384040",
-      "Vet Name": "",
-      "Vet Contact": ""
+      "emergency_contact": "Nathan borger",
+      "phone_number": "0419384040",
+      "vet_name": "",
+      "vet_contact": ""
     },
     "behavior": {
       "barks_in_reaction_to": "Nothing",
       "afraid_of": "Cat rides",
-      "owners_remark": "Loves people loves company",
-      "medical_conditions": "N/a"
+      "owners_remark": "Loves people loves company"
     }
   },
   {
@@ -914,9 +894,9 @@
       "preferred_contact": "Pet Sitting App"
     },
     "pricing data": {
-      "last price boarding": "$45 x 1 dog",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -927,21 +907,20 @@
       "duration": "30min-60mins"
     },
     "medical": {
-      "medical condition": "Nil",
+      "medical_condition": "Nil",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "David",
-      "Phone Number": "0402515485",
-      "Vet Name": "",
-      "Vet Contact": ""
+      "emergency_contact": "David",
+      "phone_number": "0402515485",
+      "vet_name": "",
+      "vet_contact": ""
     },
     "behavior": {
       "barks_in_reaction_to": "Sometimes other dogs barking",
       "afraid_of": "Sometimes big dogs barking",
-      "owners_remark": "He does not like sharing food. ",
-      "medical_conditions": "Nil"
+      "owners_remark": "He does not like sharing food. "
     }
   },
   {
@@ -959,9 +938,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing data": {
-      "last price boarding": "$45 x 1 dog",
-      "last price day care": "$35 x 1 dog",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "$35 x 1 dog",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -972,21 +951,20 @@
       "duration": "15"
     },
     "medical": {
-      "medical condition": "",
+      "medical_condition": "",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Johnson",
-      "Phone Number": "0414 285 280",
-      "Vet Name": "Burwood and Bay Vet Hospital",
-      "Vet Contact": "0297452600"
+      "emergency_contact": "Johnson",
+      "phone_number": "0414 285 280",
+      "vet_name": "Burwood and Bay Vet Hospital",
+      "vet_contact": "0297452600"
     },
     "behavior": {
       "barks_in_reaction_to": "First encounter ",
       "afraid_of": "",
-      "owners_remark": "",
-      "medical_conditions": ""
+      "owners_remark": ""
     }
   },
   {
@@ -1004,9 +982,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "$45 x 1 dog",
-      "last price day care": "$35 x 1 dog",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "$35 x 1 dog",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -1017,21 +995,20 @@
       "duration": "20 minutes to an hour "
     },
     "medical": {
-      "medical condition": "Nil",
+      "medical_condition": "Nil",
       "allergies": "No",
       "allergies_detail": "But just generally wouldn’t feed him anything outside dry and wet dog and dog treats"
     },
     "emergency": {
-      "Emergency Contact": "Tatyana elanova",
-      "Phone Number": "0411839832",
-      "Vet Name": "Pet O vet O brookvale ",
-      "Vet Contact": "02 8880 9192"
+      "emergency_contact": "Tatyana elanova",
+      "phone_number": "0411839832",
+      "vet_name": "Pet O vet O brookvale ",
+      "vet_contact": "02 8880 9192"
     },
     "behavior": {
       "barks_in_reaction_to": "Birds and occasionally outside noises. But not much",
       "afraid_of": "Small children and ocassionally other dogs in regards to ball or toys",
-      "owners_remark": "Sensitive stomach, scared /reactive to children , possessive of his ball",
-      "medical_conditions": "Nil"
+      "owners_remark": "Sensitive stomach, scared /reactive to children , possessive of his ball"
     }
   },
   {
@@ -1049,9 +1026,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing data": {
-      "last price boarding": "$45 x 1 dog",
-      "last price day care": "$35 x 1 dog",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "$35 x 1 dog",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -1062,21 +1039,20 @@
       "duration": "30-1hr "
     },
     "medical": {
-      "medical condition": "None ",
+      "medical_condition": "None ",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Josie Grainer ",
-      "Phone Number": "0414 313 936",
-      "Vet Name": "Bondi Vet ",
-      "Vet Contact": ""
+      "emergency_contact": "Josie Grainer ",
+      "phone_number": "0414 313 936",
+      "vet_name": "Bondi Vet ",
+      "vet_contact": ""
     },
     "behavior": {
       "barks_in_reaction_to": "Barks with excitement if sees another dog or hears one bark - otherwise not ",
       "afraid_of": "Has a little separation anxiety when left alone so may whimper ",
-      "owners_remark": "He's a super snuggle bug so may be a space invader on couch or bed if allowed. He's just a big lover and adores people and other dogs. He has loads of running energy in dog parks and then crashes and sleeps for most of the day so I usually do off leash in the mornings at dog park. He can pull a tiny bit at start of walk but chills out and only minor as we are working on this. ",
-      "medical_conditions": "None "
+      "owners_remark": "He's a super snuggle bug so may be a space invader on couch or bed if allowed. He's just a big lover and adores people and other dogs. He has loads of running energy in dog parks and then crashes and sleeps for most of the day so I usually do off leash in the mornings at dog park. He can pull a tiny bit at start of walk but chills out and only minor as we are working on this. "
     }
   },
   {
@@ -1094,9 +1070,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing data": {
-      "last price boarding": "$45 x 1 dog",
-      "last price day care": "$35 x 1 dog",
-      "Outst. Balance": "Owns $45"
+      "last_price_boarding": "$45 x 1 dog",
+      "last_price_day_care": "$35 x 1 dog",
+      "outstanding_balance": "Owns $45"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -1107,21 +1083,20 @@
       "duration": "Can be short just to use toilet if not using the mat inside - 5/10 mins but generally needs one longer walk every second day or running around"
     },
     "medical": {
-      "medical condition": "",
+      "medical_condition": "",
       "allergies": "No",
       "allergies_detail": "Only one dentastick per day - can be broken up into smaller portions as multiple treats "
     },
     "emergency": {
-      "Emergency Contact": "Lucia Maggio",
-      "Phone Number": "0438396562",
-      "Vet Name": "Sydney Animal Hospital Newtown",
-      "Vet Contact": "0295194111"
+      "emergency_contact": "Lucia Maggio",
+      "phone_number": "0438396562",
+      "vet_name": "Sydney Animal Hospital Newtown",
+      "vet_contact": "0295194111"
     },
     "behavior": {
       "barks_in_reaction_to": "Bouncing balls, loud wheels on skateboards/scooters",
       "afraid_of": "Fireworks and popping balloons, nail guns (bang sounds)",
-      "owners_remark": "Sometimes chooses to ignore ",
-      "medical_conditions": ""
+      "owners_remark": "Sometimes chooses to ignore "
     }
   },
   {
@@ -1139,9 +1114,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "Full Seasonal 2025",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -1152,21 +1127,20 @@
       "duration": "10 mins "
     },
     "medical": {
-      "medical condition": "",
+      "medical_condition": "",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Ibby Alali ",
-      "Phone Number": "0404154449",
-      "Vet Name": "Rosebery Veterinary Hospital",
-      "Vet Contact": "0291600777"
+      "emergency_contact": "Ibby Alali ",
+      "phone_number": "0404154449",
+      "vet_name": "Rosebery Veterinary Hospital",
+      "vet_contact": "0291600777"
     },
     "behavior": {
       "barks_in_reaction_to": "Minimal barking",
       "afraid_of": "Vacuum cleaners ",
-      "owners_remark": "",
-      "medical_conditions": ""
+      "owners_remark": ""
     }
   },
   {
@@ -1184,9 +1158,9 @@
       "preferred_contact": "SMS"
     },
     "pricing data": {
-      "last price boarding": "Full Seasonal 2025",
-      "last price day care": "Nil",
-      "Outst. Balance": "Nil"
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -1197,21 +1171,20 @@
       "duration": "15 minutes "
     },
     "medical": {
-      "medical condition": "",
+      "medical_condition": "",
       "allergies": "No",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "Luka ",
-      "Phone Number": "+61 404 783 280",
-      "Vet Name": "Shire Vet ",
-      "Vet Contact": "+61 2 7501 5095"
+      "emergency_contact": "Luka ",
+      "phone_number": "+61 404 783 280",
+      "vet_name": "Shire Vet ",
+      "vet_contact": "+61 2 7501 5095"
     },
     "behavior": {
       "barks_in_reaction_to": "Noises- people closing the door in our apartment block, our neighbours coming home. He’s an alert barker",
       "afraid_of": "Sometimes loud cars and bikes but not every time. Hates the microchip scanner.",
-      "owners_remark": "He loves to chew plastic things ",
-      "medical_conditions": ""
+      "owners_remark": "He loves to chew plastic things "
     }
   },
   {
@@ -1229,9 +1202,9 @@
       "preferred_contact": ""
     },
     "pricing data": {
-      "last price boarding": "",
-      "last price day care": "",
-      "Outst. Balance": ""
+      "last_price_boarding": "",
+      "last_price_day_care": "",
+      "outstanding_balance": ""
     },
     "feeding": {
       "times": "",
@@ -1242,21 +1215,20 @@
       "duration": ""
     },
     "medical": {
-      "medical condition": "",
+      "medical_condition": "",
       "allergies": "",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "",
-      "Phone Number": "",
-      "Vet Name": "",
-      "Vet Contact": ""
+      "emergency_contact": "",
+      "phone_number": "",
+      "vet_name": "",
+      "vet_contact": ""
     },
     "behavior": {
       "barks_in_reaction_to": "",
       "afraid_of": "",
-      "owners_remark": "",
-      "medical_conditions": ""
+      "owners_remark": ""
     }
   },
   {
@@ -1274,9 +1246,9 @@
       "preferred_contact": ""
     },
     "pricing data": {
-      "last price boarding": "",
-      "last price day care": "",
-      "Outst. Balance": ""
+      "last_price_boarding": "",
+      "last_price_day_care": "",
+      "outstanding_balance": ""
     },
     "feeding": {
       "times": "",
@@ -1287,21 +1259,20 @@
       "duration": ""
     },
     "medical": {
-      "medical condition": "",
+      "medical_condition": "",
       "allergies": "",
       "allergies_detail": ""
     },
     "emergency": {
-      "Emergency Contact": "",
-      "Phone Number": "",
-      "Vet Name": "",
-      "Vet Contact": ""
+      "emergency_contact": "",
+      "phone_number": "",
+      "vet_name": "",
+      "vet_contact": ""
     },
     "behavior": {
       "barks_in_reaction_to": "",
       "afraid_of": "",
-      "owners_remark": "",
-      "medical_conditions": ""
+      "owners_remark": ""
     }
   }
 ]
