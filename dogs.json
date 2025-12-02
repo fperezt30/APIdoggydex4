@@ -10,7 +10,7 @@
     },
     "owner": {
       "name": "Mark Gill",
-      "phone": "438833339.0",
+      "phone": "438833339",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -33,7 +33,7 @@
     },
     "emergency": {
       "emergency_contact": "Jo Hofmann",
-      "phone_number": "+61411741887",
+      "phone_number": "61411741887",
       "vet_name": "Greencross Alexandria.",
       "vet_contact": "02 32798651"
     },
@@ -54,7 +54,7 @@
     },
     "owner": {
       "name": "Mark Gill",
-      "phone": "438833329.0",
+      "phone": "438833329",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -77,7 +77,7 @@
     },
     "emergency": {
       "emergency_contact": "Jo Hofmann",
-      "phone_number": "+61411741887",
+      "phone_number": "61411741887",
       "vet_name": "Greencross Alexandria",
       "vet_contact": "93897534"
     },
@@ -98,7 +98,7 @@
     },
     "owner": {
       "name": "Innika Brown",
-      "phone": "402003343.0",
+      "phone": "402003343",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -142,7 +142,7 @@
     },
     "owner": {
       "name": "Innika Brown",
-      "phone": "402003343.0",
+      "phone": "402003343",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -186,7 +186,7 @@
     },
     "owner": {
       "name": "Linden Fuller",
-      "phone": "402533951.0",
+      "phone": "402533951",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -209,7 +209,7 @@
     },
     "emergency": {
       "emergency_contact": "Ben Selby",
-      "phone_number": "0421986282",
+      "phone_number": "421986282",
       "vet_name": "Julian Smith - Jannali Veterinary ",
       "vet_contact": ""
     },
@@ -230,7 +230,7 @@
     },
     "owner": {
       "name": "Linden Fuller",
-      "phone": "402533951.0",
+      "phone": "402533951",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -253,7 +253,7 @@
     },
     "emergency": {
       "emergency_contact": "Ben Selby (son)",
-      "phone_number": "0421986282",
+      "phone_number": "421986282",
       "vet_name": "Julian Smith Jannali Veterinary",
       "vet_contact": ""
     },
@@ -274,7 +274,7 @@
     },
     "owner": {
       "name": "Luke Charleton",
-      "phone": "402748870.0",
+      "phone": "402748870",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -318,7 +318,7 @@
     },
     "owner": {
       "name": "Jonny (and Phil)",
-      "phone": "439744224.0",
+      "phone": "439744224",
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
@@ -341,9 +341,9 @@
     },
     "emergency": {
       "emergency_contact": "Nicky Wye ",
-      "phone_number": "+61497067981",
+      "phone_number": "61497067981",
       "vet_name": "Sydney animal hospital, Erskinville",
-      "vet_contact": "0295194111"
+      "vet_contact": "295194111"
     },
     "behavior": {
       "barks_in_reaction_to": "doorbell/buzzer",
@@ -362,7 +362,7 @@
     },
     "owner": {
       "name": "Eelee",
-      "phone": "458233996.0",
+      "phone": "458233996",
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
@@ -385,9 +385,9 @@
     },
     "emergency": {
       "emergency_contact": "Vincenzo",
-      "phone_number": "0458904578",
+      "phone_number": "458904578",
       "vet_name": "Sydney Dogs and Cats Home",
-      "vet_contact": "0427909269"
+      "vet_contact": "427909269"
     },
     "behavior": {
       "barks_in_reaction_to": "Other dogs",
@@ -406,7 +406,7 @@
     },
     "owner": {
       "name": "robert jones",
-      "phone": "409326900.0",
+      "phone": "409326900",
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
@@ -450,7 +450,7 @@
     },
     "owner": {
       "name": "Samira jaber kalil ",
-      "phone": "416466489.0",
+      "phone": "416466489",
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
@@ -494,7 +494,7 @@
     },
     "owner": {
       "name": "Lara Varrica",
-      "phone": "406986921.0",
+      "phone": "406986921",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -517,7 +517,7 @@
     },
     "emergency": {
       "emergency_contact": "Monique Varrica",
-      "phone_number": "0450696726",
+      "phone_number": "450696726",
       "vet_name": "Southside Vet Cronulla ",
       "vet_contact": "+61 2 9523 5500"
     },
@@ -538,7 +538,7 @@
     },
     "owner": {
       "name": "Lara Varrica",
-      "phone": "406986921.0",
+      "phone": "406986921",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -561,7 +561,7 @@
     },
     "emergency": {
       "emergency_contact": "Monique Varrica ",
-      "phone_number": "0450696726",
+      "phone_number": "450696726",
       "vet_name": "Southside vet cronulla ",
       "vet_contact": "+61 2 9523 5500"
     },
@@ -582,7 +582,7 @@
     },
     "owner": {
       "name": "Evan",
-      "phone": "411986938.0",
+      "phone": "411986938",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -605,7 +605,7 @@
     },
     "emergency": {
       "emergency_contact": "Stella",
-      "phone_number": "0430853888",
+      "phone_number": "430853888",
       "vet_name": "",
       "vet_contact": ""
     },
@@ -626,7 +626,7 @@
     },
     "owner": {
       "name": "Cate Gazal",
-      "phone": "410828977.0",
+      "phone": "410828977",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -670,7 +670,7 @@
     },
     "owner": {
       "name": "Josie Grainer ",
-      "phone": "414313936.0",
+      "phone": "414313936",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -693,7 +693,7 @@
     },
     "emergency": {
       "emergency_contact": "Barbara Parchert",
-      "phone_number": "0418868316",
+      "phone_number": "418868316",
       "vet_name": "Vet HQ Double Bay. It’s not an emergency vet",
       "vet_contact": "9326 1255"
     },
@@ -714,7 +714,7 @@
     },
     "owner": {
       "name": "Brittany Tan",
-      "phone": "434529212.0",
+      "phone": "434529212",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -758,7 +758,7 @@
     },
     "owner": {
       "name": "Julien de Wit",
-      "phone": "429391062.0",
+      "phone": "429391062",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -781,7 +781,7 @@
     },
     "emergency": {
       "emergency_contact": "Lachlan White",
-      "phone_number": "0401263421",
+      "phone_number": "401263421",
       "vet_name": "Green Cross",
       "vet_contact": "depends on which clinic"
     },
@@ -802,7 +802,7 @@
     },
     "owner": {
       "name": "Cathy Sergi",
-      "phone": "41534524.0",
+      "phone": "41534524",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -827,7 +827,7 @@
       "emergency_contact": "Oz Korkmazer",
       "phone_number": "+61 451 509 098",
       "vet_name": "Sydney animal hospital ",
-      "vet_contact": "0295161466"
+      "vet_contact": "295161466"
     },
     "behavior": {
       "barks_in_reaction_to": "No",
@@ -846,7 +846,7 @@
     },
     "owner": {
       "name": "Hugo",
-      "phone": "425701681.0",
+      "phone": "425701681",
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
@@ -869,7 +869,7 @@
     },
     "emergency": {
       "emergency_contact": "Nathan borger",
-      "phone_number": "0419384040",
+      "phone_number": "419384040",
       "vet_name": "",
       "vet_contact": ""
     },
@@ -890,7 +890,7 @@
     },
     "owner": {
       "name": "Sarah Teng",
-      "phone": "410244998.0",
+      "phone": "410244998",
       "preferred_contact": "Pet Sitting App"
     },
     "pricing_data": {
@@ -913,7 +913,7 @@
     },
     "emergency": {
       "emergency_contact": "David",
-      "phone_number": "0402515485",
+      "phone_number": "402515485",
       "vet_name": "",
       "vet_contact": ""
     },
@@ -934,7 +934,7 @@
     },
     "owner": {
       "name": "Rene Ting",
-      "phone": "411883259.0",
+      "phone": "411883259",
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
@@ -959,7 +959,7 @@
       "emergency_contact": "Johnson",
       "phone_number": "0414 285 280",
       "vet_name": "Burwood and Bay Vet Hospital",
-      "vet_contact": "0297452600"
+      "vet_contact": "297452600"
     },
     "behavior": {
       "barks_in_reaction_to": "First encounter ",
@@ -978,7 +978,7 @@
     },
     "owner": {
       "name": "Phil Barone",
-      "phone": "439899498.0",
+      "phone": "439899498",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -1001,7 +1001,7 @@
     },
     "emergency": {
       "emergency_contact": "Tatyana elanova",
-      "phone_number": "0411839832",
+      "phone_number": "411839832",
       "vet_name": "Pet O vet O brookvale ",
       "vet_contact": "02 8880 9192"
     },
@@ -1022,7 +1022,7 @@
     },
     "owner": {
       "name": "Jennifer Gwan",
-      "phone": "402139543.0",
+      "phone": "402139543",
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
@@ -1066,7 +1066,7 @@
     },
     "owner": {
       "name": "Camilla & Christian Maggio",
-      "phone": "452366650.0",
+      "phone": "452366650",
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
@@ -1089,9 +1089,9 @@
     },
     "emergency": {
       "emergency_contact": "Lucia Maggio",
-      "phone_number": "0438396562",
+      "phone_number": "438396562",
       "vet_name": "Sydney Animal Hospital Newtown",
-      "vet_contact": "0295194111"
+      "vet_contact": "295194111"
     },
     "behavior": {
       "barks_in_reaction_to": "Bouncing balls, loud wheels on skateboards/scooters",
@@ -1110,7 +1110,7 @@
     },
     "owner": {
       "name": "Carlo Greco",
-      "phone": "487947411.0",
+      "phone": "487947411",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
@@ -1133,9 +1133,9 @@
     },
     "emergency": {
       "emergency_contact": "Ibby Alali ",
-      "phone_number": "0404154449",
+      "phone_number": "404154449",
       "vet_name": "Rosebery Veterinary Hospital",
-      "vet_contact": "0291600777"
+      "vet_contact": "291600777"
     },
     "behavior": {
       "barks_in_reaction_to": "Minimal barking",
@@ -1154,7 +1154,7 @@
     },
     "owner": {
       "name": "Caitlin ",
-      "phone": "435132717.0",
+      "phone": "435132717",
       "preferred_contact": "SMS"
     },
     "pricing_data": {
