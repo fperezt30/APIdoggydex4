@@ -795,7 +795,7 @@
     "dog_id": "19",
     "dog": {
       "name": "Ketut and Coco",
-      "age": "2025-06-12T00:00:00",
+      "age": "12-6",
       "sex": "Male",
       "breed": "Shitzu dachshund and fox terrier poodle",
       "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/Coco-y-Ketut.webp"
@@ -808,7 +808,7 @@
     "pricing_data": {
       "last_price_boarding": "$60 x 2 dogs",
       "last_price_day_care": "$40 x 2 dogs",
-      "outstanding_balance": "In favor $60"
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Afternoon",
