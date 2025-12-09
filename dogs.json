@@ -14,8 +14,8 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
-      "last_price_boarding": "",
-      "last_price_day_care": "",
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
       "outstanding_balance": "Ows $420"
     },
     "feeding": {
@@ -58,9 +58,9 @@
       "preferred_contact": "SMS"
     },
     "pricing_data": {
-      "last_price_boarding": "",
-      "last_price_day_care": "",
-      "outstanding_balance": ""
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -102,9 +102,9 @@
       "preferred_contact": "SMS"
     },
     "pricing_data": {
-      "last_price_boarding": "",
-      "last_price_day_care": "",
-      "outstanding_balance": "Owns $75"
+      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "",
@@ -236,7 +236,7 @@
     "pricing_data": {
       "last_price_boarding": "$45 x 1 dog",
       "last_price_day_care": "$35 x 1 dog",
-      "outstanding_balance": "Owns $35"
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -845,7 +845,7 @@
       "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/diggle-scaled.webp"
     },
     "owner": {
-      "name": "Samira jaber kalil ",
+      "name": "Samira jaber",
       "phone": "416466489",
       "preferred_contact": "Whatsapp"
     },
