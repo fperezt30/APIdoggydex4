@@ -40,4 +40,4 @@ jobs:
           git remote -v
           git add dogs.json
           git commit -m "Auto-update dogs.json from Google Sheet" || echo "No changes"
-          git push origin master --force
+          git push origin main --force
