@@ -1,6 +1,7 @@
 import json
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
 
 
 app = FastAPI(title="Dog Profiles API")
@@ -59,4 +60,4 @@ def get_dog(dog_id: str):
     raise HTTPException(status_code=404, detail="Dog not found")
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    uvicorn.run(app, host="0.0.0.0", port=5000)
