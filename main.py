@@ -11,7 +11,8 @@ app = FastAPI(title="Dog Profiles API")
 origins = [
     "http://localhost:8000",
     "http://127.0.0.1:8000",
-    "https://apidoggydex4.onrender.com"
+    "https://apidoggydex4.onrender.com",
+    "https://fernandoperez.me",
     "http://localhost:5500",
     "https://dogprofile3.onrender.com",   # backend
     "https://your-pwa-domain-if-deployed", 
