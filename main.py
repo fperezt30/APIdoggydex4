@@ -56,3 +56,6 @@ def get_dog(dog_id: str):
         if dog_obj["dog_id"] == dog_id:
             return dog_obj
     raise HTTPException(status_code=404, detail="Dog not found")
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
