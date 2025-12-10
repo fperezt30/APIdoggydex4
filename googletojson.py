@@ -8,10 +8,6 @@ import base64
 import gspread
 from gspread_dataframe import get_as_dataframe
 
-# Load service account from environment variable
-service_account_b64 = os.environ.get("SERVICE_ACCOUNT_JSON_B64")
-with open("service_account.json", "wb") as f:
-    f.write(base64.b64decode(service_account_b64))
 
 #DEFAULT_PHOTO_URL
 DEFAULT_PHOTO_URL = "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
