@@ -2,6 +2,7 @@ fastapi
 uvicorn
 pydantic
 gspread
+gspread-dataframe
 python-dotenv
 cachetools
 pandas
