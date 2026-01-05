@@ -55,6 +55,7 @@ for idx, row in df.iterrows():
             "name": serialize(row.get("Name")),
             "age": serialize(row.get("Age")),
             "sex": serialize(row.get("Sex")),
+            "spayed_or_neutered": serialize(row.get("Spayed or neutered")),
             "breed": serialize(row.get("Breed")),
             "photo_url": serialize(row.get("Photo")) or DEFAULT_PHOTO_URL
         },
@@ -80,7 +81,8 @@ for idx, row in df.iterrows():
         "medical": {
             "medical_condition": serialize(row.get("Medical conditions / needs (optional)")),
             "allergies": serialize(row.get("Food or environmental intolerances ")),
-            "allergies_detail": serialize(row.get("If yes, please details of any food or environmental intolerances:"))
+            "allergies_detail": serialize(row.get("If yes, please details of any food or environmental intolerances:")),
+            "vaccinations": serialize(row.get("Has the following vaccinations")),
         },
 
         "emergency": {
