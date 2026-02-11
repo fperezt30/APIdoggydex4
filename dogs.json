@@ -1,12 +1,12 @@
 [
   {
-    "dog_id": "35",
+    "dog_id": "34",
     "dog": {
       "name": "Milo",
       "age": "7",
       "sex": "Female",
       "breed": "Labradoodle",
-      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+      "photo_url": "https://offthestream.com/wp-content/uploads/2026/02/Milo.webp"
     },
     "owner": {
       "name": "Nick Powell",
@@ -14,9 +14,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
-      "last_price_boarding": "",
-      "last_price_day_care": "",
-      "outstanding_balance": ""
+      "last_price_boarding": "$100 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -32,7 +32,7 @@
       "allergies_detail": "Although no intolerances - Milo and Sydney has same diet and treats (to make things easier) "
     },
     "emergency": {
-      "emergency_contact": "Mei Mei Chow",
+      "emergency_contact": "Mei Mei ",
       "phone_number": "60192683386",
       "vet_name": "GreenCross Vets in Five Docks - Dr Alex (but can use any Greencross)",
       "vet_contact": "(02) 8753 1300"
@@ -44,13 +44,13 @@
     }
   },
   {
-    "dog_id": "34",
+    "dog_id": "33",
     "dog": {
       "name": "Sydney",
       "age": "13",
       "sex": "Female",
       "breed": "Labradoodle",
-      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+      "photo_url": "https://offthestream.com/wp-content/uploads/2026/02/Sydney.webp"
     },
     "owner": {
       "name": "Mei Mei and Nick ",
@@ -58,9 +58,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
-      "last_price_boarding": "",
-      "last_price_day_care": "",
-      "outstanding_balance": ""
+      "last_price_boarding": "$100 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -88,13 +88,13 @@
     }
   },
   {
-    "dog_id": "33",
+    "dog_id": "32",
     "dog": {
-      "name": "Sebastian ",
+      "name": "Sebastia",
       "age": "14",
       "sex": "Male",
       "breed": "Shihtzus ",
-      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+      "photo_url": "https://offthestream.com/wp-content/uploads/2026/02/Sebastian.webp"
     },
     "owner": {
       "name": "Giorgia Kontos ",
@@ -102,9 +102,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
-      "last_price_boarding": "",
-      "last_price_day_care": "",
-      "outstanding_balance": ""
+      "last_price_boarding": "$100 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Afternoon, Evening",
@@ -132,13 +132,13 @@
     }
   },
   {
-    "dog_id": "32",
+    "dog_id": "31",
     "dog": {
-      "name": "Clio Kontos",
+      "name": "Clio",
       "age": "13",
       "sex": "Male",
       "breed": "Shihtzus ",
-      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+      "photo_url": "https://offthestream.com/wp-content/uploads/2026/02/Clio.webp"
     },
     "owner": {
       "name": "Giorgia Kontos ",
@@ -146,9 +146,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
-      "last_price_boarding": "",
-      "last_price_day_care": "",
-      "outstanding_balance": ""
+      "last_price_boarding": "$100 x 2 dogs",
+      "last_price_day_care": "Nil",
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Afternoon, Evening",
@@ -176,13 +176,13 @@
     }
   },
   {
-    "dog_id": "31",
+    "dog_id": "30",
     "dog": {
       "name": "Uni",
       "age": "10 months",
       "sex": "Female",
       "breed": "Medium size groodle ",
-      "photo_url": "https://offthestream.com/wp-content/uploads/2025/11/No-photo.webp"
+      "photo_url": "https://offthestream.com/wp-content/uploads/2026/02/Uni.webp"
     },
     "owner": {
       "name": "Will",
@@ -192,7 +192,7 @@
     "pricing_data": {
       "last_price_boarding": "$60 x 1 dog",
       "last_price_day_care": "Nil",
-      "outstanding_balance": ""
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning, Evening",
@@ -220,50 +220,6 @@
     }
   },
   {
-    "dog_id": "30",
-    "dog": {
-      "name": "Bobby",
-      "age": "5",
-      "sex": "Male",
-      "breed": "Jack Russell ",
-      "photo_url": "https://offthestream.com/wp-content/uploads/2025/12/bobby1.webp"
-    },
-    "owner": {
-      "name": "Ping Chen & Jeff Chan",
-      "phone": "414543007",
-      "preferred_contact": "Whatsapp"
-    },
-    "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
-      "last_price_day_care": "Nil",
-      "outstanding_balance": "Nil"
-    },
-    "feeding": {
-      "times": "Morning, Afternoon, Evening",
-      "amount": "A scoop of dry food"
-    },
-    "walks": {
-      "frequency": "Morning, Afternoon, Evening",
-      "duration": "15 -30 mins"
-    },
-    "medical": {
-      "medical_condition": "",
-      "allergies": "No",
-      "allergies_detail": ""
-    },
-    "emergency": {
-      "emergency_contact": "Jeff Chan",
-      "phone_number": "466088489",
-      "vet_name": "Bayside animal hospital Wolli Creek ",
-      "vet_contact": "02 79010837"
-    },
-    "behavior": {
-      "barks_in_reaction_to": "Strangers and birds",
-      "afraid_of": "Big dog ",
-      "owners_remark": "Bobby would love to pee and poo outside of place, especially on the green grass. Please wash his paws after walking him outside. He loves to play balls or any toys. "
-    }
-  },
-  {
     "dog_id": "29",
     "dog": {
       "name": "Lotto",
@@ -278,9 +234,9 @@
       "preferred_contact": "Whatsapp"
     },
     "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_boarding": "$55 x  1 dog",
       "last_price_day_care": "Nil",
-      "outstanding_balance": "Ows $420"
+      "outstanding_balance": "Nil"
     },
     "feeding": {
       "times": "Morning",
@@ -322,7 +278,7 @@
       "preferred_contact": "SMS"
     },
     "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_boarding": "$55 x  1 dog",
       "last_price_day_care": "Nil",
       "outstanding_balance": "Nil"
     },
@@ -366,7 +322,7 @@
       "preferred_contact": "SMS"
     },
     "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_boarding": "$55 x  1 dog",
       "last_price_day_care": "Nil",
       "outstanding_balance": "Nil"
     },
@@ -410,7 +366,7 @@
       "preferred_contact": "SMS"
     },
     "pricing_data": {
-      "last_price_boarding": "Full Seasonal 2025",
+      "last_price_boarding": "$55 x  1 dog",
       "last_price_day_care": "Nil",
       "outstanding_balance": "Nil"
     },
